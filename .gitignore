@@ -1,0 +1,5 @@
+# Ignore all .jar files
+*.jar
+
+# Optional: Ignore specific directories containing .jar files
+# /libs/*.jar
